@@ -1,0 +1,77 @@
+[
+  {
+    "category": "Internship Overview",
+    "question": "What is the CodeAlpha Artificial Intelligence Internship?",
+    "answer": "The CodeAlpha AI Internship is a remote program designed to give students and professionals real-world experience in AI model development, machine learning workflows, and natural language processing."
+  },
+  {
+    "category": "Internship Overview",
+    "question": "How many tasks are required to get the internship certificate?",
+    "answer": "To be eligible for the internship certificate, participants must complete a minimum of two or three tasks from the provided task list. Submitting only one task is considered incomplete."
+  },
+  {
+    "category": "Internship Overview",
+    "question": "Is the CodeAlpha internship completely free?",
+    "answer": "Yes, completing tasks, receiving mentorship guidelines, and earning completion certificates follows CodeAlpha's learning program guidelines."
+  },
+  {
+    "category": "Tasks & Submission",
+    "question": "What are the 4 AI tasks included in the internship?",
+    "answer": "The 4 tasks are: Task 1 - Language Translation Tool, Task 2 - Chatbot for FAQs, Task 3 - Music Generation with AI, and Task 4 - Real-Time Object Detection and Tracking."
+  },
+  {
+    "category": "Tasks & Submission",
+    "question": "How should I name my GitHub repository for task submission?",
+    "answer": "As per CodeAlpha instructions, name your repositories using the format 'CodeAlpha_ProjectName' (e.g., CodeAlpha_LanguageTranslationTool, CodeAlpha_FAQChatbot, etc.)."
+  },
+  {
+    "category": "Tasks & Submission",
+    "question": "How do I submit my completed internship projects?",
+    "answer": "Push your code to public GitHub repositories, record an optional demo explanation video, and fill out the official CodeAlpha Google Submission Form."
+  },
+  {
+    "category": "Tasks & Submission",
+    "question": "Is a LinkedIn video demo mandatory?",
+    "answer": "Posting a video explanation on LinkedIn with your GitHub repo link tagging @CodeAlpha is highly recommended and counts favorably towards your Letter of Recommendation (LOR), but GitHub repositories are the primary evaluation criteria."
+  },
+  {
+    "category": "Certification",
+    "question": "When and how will I receive my internship completion certificate?",
+    "answer": "Certificates featuring QR verification and a Unique ID are processed and issued via email after the evaluation team reviews your submitted tasks and GitHub repositories."
+  },
+  {
+    "category": "Certification",
+    "question": "What perks do interns receive upon completion?",
+    "answer": "Interns receive an Internship Offer Letter, QR-verified Completion Certificate, Unique ID Certificate, Letter of Recommendation (based on performance), and Placement Support."
+  },
+  {
+    "category": "Technical Details",
+    "question": "How does the FAQ Chatbot algorithm work?",
+    "answer": "The chatbot uses NLTK for text preprocessing (tokenization, lowercasing, stop-word removal, and lemmatization) followed by TF-IDF Vectorization and Cosine Similarity to calculate matching confidence between your query and the knowledge base."
+  },
+  {
+    "category": "Technical Details",
+    "question": "What libraries are used for Task 1 Language Translation Tool?",
+    "answer": "Task 1 uses Streamlit for the user interface, Deep-Translator (Google Translator API engine) for multilingual text conversion, and gTTS for voice pronunciation."
+  },
+  {
+    "category": "Technical Details",
+    "question": "What model architecture is used in Task 3 Music Generation?",
+    "answer": "Task 3 employs an LSTM (Long Short-Term Memory) recurrent neural network trained on MIDI note/chord sequences parsed with the music21 library to generate polyphonic musical progressions."
+  },
+  {
+    "category": "Technical Details",
+    "question": "Which algorithm is used for Task 4 Object Detection and Tracking?",
+    "answer": "Task 4 leverages YOLOv8 (nano) for deep learning bounding-box detection paired with ByteTrack/SORT algorithms for continuous multi-object tracking and ID assignment."
+  },
+  {
+    "category": "Support",
+    "question": "How can I contact CodeAlpha for help or queries?",
+    "answer": "You can reach CodeAlpha via email at services@codealpha.tech, through their official WhatsApp support at +91 9336576683, or visit www.codealpha.tech."
+  },
+  {
+    "category": "General",
+    "question": "Who developed this FAQ chatbot?",
+    "answer": "This intelligent chatbot was developed by Abhi B Sheth as part of the CodeAlpha Artificial Intelligence Internship."
+  }
+]
